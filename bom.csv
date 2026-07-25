@@ -1,3 +1,4 @@
 mpn,role,manufacturer,reference,quantity,fitted
 ESP32-WROOM-32E,wifi,Espressif Systems,U1,1,true
 ESP32-WROOM-32E,bt,Espressif Systems,U1,1,true
+ESP32-WROOM-32E,wifi,Espressif Systems,U2,1,true
