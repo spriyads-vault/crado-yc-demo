@@ -1,0 +1,3 @@
+reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
+R1,RC0402FR-0710KL,Yageo,10,10k resistor,,,,,
+U1,NRF24L01P,Nordic Semiconductor,1,2.4GHz RF transceiver,2440.0,intentional_radiator,point_to_multipoint,conducted,2.0
